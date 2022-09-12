@@ -40,3 +40,18 @@ Machine Learning course at NYCU
 ***SVM_Q3.py***: 支持向量機 -> 混用線性核和RBF核
 
 ## HW6
+***data***: 所有輸入資料  
+***2022_Spring_ML_HW6.pdf***: spec  
+***Report.pdf***: 報告  
+***discussion_try.py***: 報告中的discussion的延伸實驗  
+***kernel_Kmeans.py***: 使用核方法的Kmeans演算法  
+***spectral_clustering.py***: 譜分群法  
+
+## HW7
+***2022_Spring_ML_HW6.pdf***: spec  
+***KernelEigenFaces.py***: 主成分分析(普通/使用核方法)、線性判別分析(普通/使用核方法)
+***Report.pdf***: 報告  
+***Yale_Face_Database.zip***: 臉部資料集  
+***observation_and_discussion.py***: 報告中的discussion的延伸實驗  
+***tsne.py***: t-SNE方法的sample code
+***tsne_python.zip***: 包含上述t-SNE sample code以及輸入資料的壓縮檔
