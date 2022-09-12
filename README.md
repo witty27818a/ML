@@ -17,3 +17,10 @@ Machine Learning course at NYCU
 ***discrete說明.png***: 樸素貝葉斯分類器的discrete模式的算法圖解示意
 
 ## HW3
+***110ML_HW03.pdf***: spec  
+***Walford's online algorithm.png***: 在線更新期望值和變異數的Walford演算法說明  
+***bayesian_linear_regression_modify.py***: 貝氏線性迴歸  
+***random_generator.py***: 手刻從常態抽樣，以及從某個多項式抽樣的函數  
+***sequential_estimator.py***: 使用Walford演算法在線更新期望值和變異數
+
+## HW4
