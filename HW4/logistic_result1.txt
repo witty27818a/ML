@@ -1,0 +1,29 @@
+Gradient Descent Method: 
+w: 
+[[-38.10343774]
+ [  6.41106097]
+ [  0.93991369]]
+
+Confusion Matrix: 
+		Real 1		Real 0
+Predicted 1	50		0
+Predicted 0	0		50
+Sensitivity (cluster 1, successfully predicted): 1.0
+Specificity (cluster 0, successfully predicted): 1.0
+
+
+---------------------------------------------------------------------
+Newton's Method: 
+w: 
+[[-116.28997917]
+ [  12.11745943]
+ [   9.84798936]]
+
+Confusion Matrix: 
+		Real 1		Real 0
+Predicted 1	50		0
+Predicted 0	0		50
+Sensitivity (cluster 1, successfully predicted): 1.0
+Specificity (cluster 0, successfully predicted): 1.0
+
+
