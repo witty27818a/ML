@@ -24,3 +24,10 @@ Machine Learning course at NYCU
 ***sequential_estimator.py***: 使用Walford演算法在線更新期望值和變異數
 
 ## HW4
+***110ML_HW04.pdf***: spec  
+***EM.py***: 最大期望演算法  
+***logistic.py***: 邏輯迴歸  
+***random_generator.py***: 手刻從常態抽樣，以及從某個多項式抽樣的函數  
+剩下兩個是MNIST的訓練資料的data和label
+
+## HW5
