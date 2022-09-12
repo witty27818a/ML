@@ -31,3 +31,12 @@ Machine Learning course at NYCU
 剩下兩個是MNIST的訓練資料的data和label
 
 ## HW5
+***data***: 所有輸入資料  
+***2022_Spring_ML_HW5.pdf***: spec  
+***Gaussian Process.py***: 高斯過程  
+***Report.pdf***: 報告  
+***SVM_Q1.py***: 支持向量機 -> 測試不同核函數的效果  
+***SVM_Q2.py***: 支持向量機 -> 用有懲罰的C-SVC，然後使用網格搜索來調整參數  
+***SVM_Q3.py***: 支持向量機 -> 混用線性核和RBF核
+
+## HW6
